@@ -1,0 +1,4 @@
+c:\users\rebarkurdi\documents\visual studio 2010\Projects\Rest_Calc1\Rest_Calc1\bin\Rest_Calc1.dll
+c:\users\rebarkurdi\documents\visual studio 2010\Projects\Rest_Calc1\Rest_Calc1\bin\Rest_Calc1.pdb
+c:\users\rebarkurdi\documents\visual studio 2010\Projects\Rest_Calc1\Rest_Calc1\obj\Debug\Rest_Calc1.dll
+c:\users\rebarkurdi\documents\visual studio 2010\Projects\Rest_Calc1\Rest_Calc1\obj\Debug\Rest_Calc1.pdb
